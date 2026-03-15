@@ -103,5 +103,4 @@ Financial solutions built on a component-based platform
 ## 📈 GitHub Stats (optional)
 > Replace `oussamaibra` below with your GitHub username.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oussamaibra&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamaibra&layout=compact)
